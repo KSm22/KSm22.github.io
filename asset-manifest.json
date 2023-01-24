@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.5aed1dd8.css",
-    "main.js": "/static/js/main.eb0afa97.js",
+    "main.css": "/static/css/main.5bb21343.css",
+    "main.js": "/static/js/main.2fa2cd36.js",
     "static/media/lights.png": "/static/media/lights.4712b1c70a96e2bd85a3.png",
     "static/media/Heebo-Regular.woff": "/static/media/Heebo-Regular.ba93dc137f18fc46c02f.woff",
     "static/media/Heebo-Regular.woff2": "/static/media/Heebo-Regular.4931fdf51d212f01ec6c.woff2",
     "static/media/Aviator-text.svg": "/static/media/Aviator-text.9126b7419f41aefa4136.svg",
+    "static/media/71DFB5DC-E62D-4B35-AB25-941623B0F1A3.svg": "/static/media/71DFB5DC-E62D-4B35-AB25-941623B0F1A3.b6a1e78e91515d62d06b.svg",
     "static/media/2992E5A9-C97E-448F-A074-58DF31E713F9.svg": "/static/media/2992E5A9-C97E-448F-A074-58DF31E713F9.b4bbaec25a9d3e2bfde1.svg",
     "static/media/BA5F7D89-214B-44BF-93CE-7523ADE19A89.svg": "/static/media/BA5F7D89-214B-44BF-93CE-7523ADE19A89.0517e0b1d41188b2c78b.svg",
     "static/media/8586C5FE-3BCF-459C-9756-F778B2FD4524.svg": "/static/media/8586C5FE-3BCF-459C-9756-F778B2FD4524.611f1d692aa6031c691a.svg",
@@ -17,11 +18,11 @@
     "index.html": "/index.html",
     "static/media/burger.svg": "/static/media/burger.9b287da6a83ec0d916d6.svg",
     "static/media/history.svg": "/static/media/history.3440184f4f0f4ad71234.svg",
-    "main.5aed1dd8.css.map": "/static/css/main.5aed1dd8.css.map",
-    "main.eb0afa97.js.map": "/static/js/main.eb0afa97.js.map"
+    "main.5bb21343.css.map": "/static/css/main.5bb21343.css.map",
+    "main.2fa2cd36.js.map": "/static/js/main.2fa2cd36.js.map"
   },
   "entrypoints": [
-    "static/css/main.5aed1dd8.css",
-    "static/js/main.eb0afa97.js"
+    "static/css/main.5bb21343.css",
+    "static/js/main.2fa2cd36.js"
   ]
 }
